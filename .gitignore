@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Local settings and secrets
+.env
+*.env
+
+# SQLite database (if using locally)
+db.sqlite3
+
+# Static and logs
+static/
+logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
